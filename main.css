@@ -1,0 +1,75 @@
+
+body{
+    background-color:lightskyblue
+}
+    .logo{
+        width: 10%;
+    }
+   h1{
+    background-color: rgba(33, 136, 239, 0.471);
+    padding: 40px;
+    text-align: center;
+    border-color: black;
+   }
+   
+  nav a {
+        font-size: 40px;
+        margin-left: 70px;
+        margin-right: 40px;
+   }
+  
+   .campus{
+        background-color:rgba(0, 81, 139, 0.441);
+        margin-top: 4px;
+        padding:5%;
+        text-align: center;
+   }
+   .c2{
+   text-align: center;
+   background-color: bisque;
+   padding-top: 2%;
+   padding-bottom: 2%;
+   }
+   .cv{
+    margin-left:143px;
+   }
+   .hostel{
+    text-decoration-line: underline;
+    text-align: center;
+    background-color: rgba(165, 42, 42, 0.466);
+    padding:30px;
+    color:blanchedalmond;
+   }
+   table,th,td{
+    border:1px solid black;
+    border-collapse: collapse;
+   }   
+   th{
+    color:red;
+   } 
+   td{
+    color:rgb(38, 42, 110);
+   }
+   .review{
+   text-align: center;
+    text-decoration: underline;
+  color: azure;
+  width: 40%;
+   }
+   .review2{
+       margin-left:10%;
+}
+  .courses{
+    background-color: cadetblue;    
+padding: 20px;
+text-align: center;
+}
+table{
+text-align:center;
+}
+
+.img{
+    margin-left: 28%;
+    justify-content: center;
+    width: 30%;
+}
