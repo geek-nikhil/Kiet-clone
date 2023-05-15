@@ -1,6 +1,6 @@
 
 body{
-    background-color:lightskyblue
+    background-color:rgb(213, 84, 84)
 }
     .logo{
         width: 10%;
@@ -45,7 +45,7 @@ body{
     border-collapse: collapse;
    }   
    th{
-    color:red;
+    color:bisque;
    } 
    td{
     color:rgb(38, 42, 110);
