@@ -1,6 +1,12 @@
 
 body{
-    background-color:rgb(125, 84, 213)
+    background-color:rgb(224, 85, 85)
+}
+.float{
+    display: flex;
+    padding: 20;
+    background-color: brown;
+    color: aqua;
 }
     .logo{
         width: 10%;
